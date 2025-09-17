@@ -2,7 +2,7 @@
 
 A responsive replication of a Google Gemini–style conversational interface built with **React + Vite** and plain CSS. This project demonstrates a modern conversational layout with a sidebar for recent prompts, an animated streaming/typing response renderer, suggestion cards, and a mobile-first responsive design.
 
-🔗 **Live Demo:** *(Add your deployed URL here, e.g. Netlify / Vercel)*
+🔗 **Live Demo:** *[(Add your deployed URL here, e.g. Netlify / Vercel)](https://replica-gemini-clone.netlify.app/)*
 
 ## Features
 
