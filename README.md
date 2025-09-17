@@ -65,10 +65,6 @@ A responsive replication of a Google Gemini–style conversational interface bui
 * `package.json` — project metadata and scripts
 * `vite.config.js` — Vite configuration
 
-## Usage Notes & Security
-
-* The repository includes example code that demonstrates how to call Gemini. For security and best practices
-
 ## License
 
 This project is licensed under the **ISC License**.
